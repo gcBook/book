@@ -1,7 +1,7 @@
 module.exports = {
   title: '小高的博客',
   description: 'javaScript',
-  dest: "./docs",
+  dest: "./docs", //根据gitpage的Source可配置docs路径和跟路径
   base: '/book/', // gitHub 项目名称
   head: [ // 注入到当前页面的 HTML <head> 中的标签
     ['link', { rel: 'icon', href: '/logo.jpg' }], // 增加一个自定义的 favicon(网页标签的图标)
