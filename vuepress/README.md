@@ -2,7 +2,7 @@
 home: true
 heroImage: /logo.jpg
 actionText: 快速上手 →
-actionLink: http://www.baidu.com
+actionLink: /preface
 heroText: 前端乐园
 tagline: 书山有路勤为径，学海无涯苦作舟
 features:
